@@ -42,6 +42,9 @@ As stated earlier, my choice of tool for the challenge was microsoft excel.
      BEFORE   ![image](https://user-images.githubusercontent.com/109909855/225386384-31b022ac-b805-44ca-9673-eb8033096e9e.png)       AFTER    ![image](https://user-images.githubusercontent.com/109909855/225387156-0bce842a-6730-4450-9293-afec3222d031.png)
   
 
-  
+- The columns containing the value,wage and release clause of the players were converted from Euro to Dollars as stated by the dataset dictionary provided. Some values were in thousands(K) while some were in millions(M). The cells containing K were multiplied by 1000 and the cells containing M were multiplied by 1000000 before converting them from euro to dollar.
+                                            1 Euro = 1.07 dollar
+
+     BEFORE   ![image](https://user-images.githubusercontent.com/109909855/225389308-824aeceb-8310-4b4d-86a1-3dab2b8f8a52.png)        AFTER    ![image](https://user-images.githubusercontent.com/109909855/225390344-522a0663-90bd-4e47-ae3b-935cab1600b9.png)
 
 
