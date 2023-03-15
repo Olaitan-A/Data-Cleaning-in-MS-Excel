@@ -22,7 +22,11 @@ As stated earlier, my choice of tool for the challenge was microsoft excel.
  
  ![FIFA NO DUPLICATES FOUND (4)](https://user-images.githubusercontent.com/109909855/225366258-0dce547c-7014-4d9e-a6d5-426b6d5e8c43.JPG)
 
-- The OVA column and POT column-Overall analysis and player potential respectively were formatted to percentages as stated by the dataset dictionary provided.
+- The OVA column and POT column - Overall analysis and Player's Potential respectively were formatted to percentages 
+
+
+    BEFORE ![ovapot- old](https://user-images.githubusercontent.com/109909855/225374175-9fc4e121-8c4f-4475-944d-ff73d82f0e06.JPG)    AFTER   ![image](https://user-images.githubusercontent.com/109909855/225374769-ee17ecff-3297-4d4d-b967-e3f34a19b6b9.png)
+ 
 
 
 
