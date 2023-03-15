@@ -48,3 +48,7 @@ As stated earlier, my choice of tool for the challenge was microsoft excel.
      BEFORE   ![image](https://user-images.githubusercontent.com/109909855/225389308-824aeceb-8310-4b4d-86a1-3dab2b8f8a52.png)        AFTER    ![image](https://user-images.githubusercontent.com/109909855/225390344-522a0663-90bd-4e47-ae3b-935cab1600b9.png)
 
 
+- The 'Hits' column had some values with letter 'K' The values were multiplied by 1000 and the resulting column was formatted as number
+
+     BEFORE   ![image](https://user-images.githubusercontent.com/109909855/225391395-eb0627a9-4d39-4f0a-b0b7-4de0ca5cd84b.png)        AFTER    ![image](https://user-images.githubusercontent.com/109909855/225391931-4be9e104-ac9d-4d51-90d6-de946881a42f.png)
+
