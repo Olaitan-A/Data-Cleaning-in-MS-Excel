@@ -17,17 +17,16 @@ As stated earlier, my choice of tool for the challenge was microsoft excel.
 ![FIFA NO DUPLICATES FOUND (4)](https://user-images.githubusercontent.com/109909855/225366258-0dce547c-7014-4d9e-a6d5-426b6d5e8c43.JPG)
 
 - The following columns were noted for cleaning
-  -OVA and POT
-            
-  -Contract column
-          
- -Heigh
- 
- -Weight
-           
+
+
+ -OVA and POT          
+ -Contract column        
+ -Height
+ -Weight          
  -Value, Wage and Release clause
-           
  -Hits
+ 
+ 
 -The dataset was imported into excel through the text import wizard using these steps:
          "Data" tab > "From text/CSV"
          In the "File origin" field, "65001: Unicode (UTF-8)" was selected before loading the data into the excel sheet  
