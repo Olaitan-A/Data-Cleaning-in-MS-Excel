@@ -20,7 +20,7 @@ As stated earlier, my choice of tool for the challenge was microsoft excel.
 
 - The dataset was checked for duplicate values
 
-          ![FIFA NO DUPLICATES FOUND (4)](https://user-images.githubusercontent.com/109909855/225366258-0dce547c-7014-4d9e-a6d5-426b6d5e8c43.JPG)
+     ![FIFA NO DUPLICATES FOUND (4)](https://user-images.githubusercontent.com/109909855/225366258-0dce547c-7014-4d9e-a6d5-426b6d5e8c43.JPG)
 
 
 
