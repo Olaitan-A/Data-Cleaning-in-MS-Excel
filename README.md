@@ -17,12 +17,17 @@ As stated earlier, my choice of tool for the challenge was microsoft excel.
 ![FIFA NO DUPLICATES FOUND (4)](https://user-images.githubusercontent.com/109909855/225366258-0dce547c-7014-4d9e-a6d5-426b6d5e8c43.JPG)
 
 - The following columns were noted for cleaning
-            -OVA and POT
-            -Contract column
-            -Height
-            -Weight
-            -Value, Wage and Release clause
-            -Hits
+  -OVA and POT
+            
+  -Contract column
+          
+ -Heigh
+ 
+ -Weight
+           
+ -Value, Wage and Release clause
+           
+ -Hits
 -The dataset was imported into excel through the text import wizard using these steps:
          "Data" tab > "From text/CSV"
          In the "File origin" field, "65001: Unicode (UTF-8)" was selected before loading the data into the excel sheet  
@@ -56,7 +61,8 @@ As stated earlier, my choice of tool for the challenge was microsoft excel.
                                             1 Kg = 2.205 lbs
                                             
                                             
-     BEFORE                                            
+     BEFORE  ![image](https://user-images.githubusercontent.com/109909855/225386384-31b022ac-b805-44ca-9673-eb8033096e9e.png)        AFTER     ![image](https://user-images.githubusercontent.com/109909855/225398207-72a8ff6c-47b9-4b24-92ae-14afdb6fce5d.png)
+                                         
 
 - The columns containing the value,wage and release clause of the players were converted from Euro to Dollars as stated by the dataset dictionary provided. Some values were in thousands(K) while some were in millions(M). The cells containing K were multiplied by 1000 and the cells containing M were multiplied by 1000000 before converting them from euro to dollar.
                                             1 Euro = 1.07 dollar
