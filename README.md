@@ -31,7 +31,7 @@ As stated earlier, my choice of tool for the challenge was microsoft excel.
  -Hits  
  
  
--The dataset was imported into excel through the text import wizard using these steps:
+- The dataset was imported into excel through the text import wizard using these steps:
          "Data" tab > "From text/CSV"
          In the "File origin" field, "65001: Unicode (UTF-8)" was selected before loading the data into the excel sheet  
          This step eliminated all special characters earlier noticed in some columns of the dataset during assessment 
@@ -77,3 +77,5 @@ As stated earlier, my choice of tool for the challenge was microsoft excel.
 
      BEFORE   ![image](https://user-images.githubusercontent.com/109909855/225391395-eb0627a9-4d39-4f0a-b0b7-4de0ca5cd84b.png)        AFTER    ![image](https://user-images.githubusercontent.com/109909855/225391931-4be9e104-ac9d-4d51-90d6-de946881a42f.png)
 
+
+# Conclusion
