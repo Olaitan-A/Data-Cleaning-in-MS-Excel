@@ -19,6 +19,7 @@ As stated earlier, my choice of tool for the challenge was microsoft excel.
     BEFORE ![Dirty Characters in the data RES](https://user-images.githubusercontent.com/109909855/225361159-e1c31d8a-2de2-441c-8b78-57a2a392ed0a.JPG)  AFTER  ![Neat Characters RES](https://user-images.githubusercontent.com/109909855/225361387-3e85c742-7f9a-4790-bb83-e59be2405ff3.JPG)
 
 - The dataset was checked for duplicate values
+ 
                ![FIFA NO DUPLICATES FOUND (4)](https://user-images.githubusercontent.com/109909855/225366258-0dce547c-7014-4d9e-a6d5-426b6d5e8c43.JPG)
 
 
