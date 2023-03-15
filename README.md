@@ -46,7 +46,7 @@ As stated earlier, my choice of tool for this challenge is microsoft excel.
 
     BEFORE ![ovapot- old](https://user-images.githubusercontent.com/109909855/225374175-9fc4e121-8c4f-4475-944d-ff73d82f0e06.JPG)    AFTER   ![image](https://user-images.githubusercontent.com/109909855/225374769-ee17ecff-3297-4d4d-b967-e3f34a19b6b9.png)
  
-- The TILDE symbol(~) in the contract column was replaced with a more appropriate symbol, Hyphen (-) using the substitute function SUBSTITUTE syntax
+- The TILDE symbol(~) in the contract column was replaced with a more appropriate symbol, Hyphen (-) using the SUBSTITUTE function
 
 
      BEFORE  ![image](https://user-images.githubusercontent.com/109909855/225380270-494726be-b7b9-4234-8812-1ff486b8161b.png)        AFTER    ![image](https://user-images.githubusercontent.com/109909855/225381642-d0352e7a-34c8-4d88-8dc8-ce67101d77c2.png)
