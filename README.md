@@ -13,8 +13,8 @@ As stated earlier, my choice of tool for the challenge was microsoft excel.
 - After assessing the data to understand what needed to be done in order to take it from messy to clean, the dataset was imported into excel through the text import wizard using these steps:
          "Data" tab > "From text/CSV"
          In the "File origin" field, "65001: Unicode (UTF-8)" was selected before loading the data into the excel sheet  
-         This step eliminated all special characters earlier noticed in some columns of the dataset during assessment
-#BEFORE ![Dirty Characters in the data RES](https://user-images.githubusercontent.com/109909855/225361159-e1c31d8a-2de2-441c-8b78-57a2a392ed0a.JPG)  #AFTER  ![Neat Characters RES](https://user-images.githubusercontent.com/109909855/225361387-3e85c742-7f9a-4790-bb83-e59be2405ff3.JPG)
+         This step eliminated all special characters earlier noticed in some columns of the dataset during assessment  
+          BEFORE ![Dirty Characters in the data RES](https://user-images.githubusercontent.com/109909855/225361159-e1c31d8a-2de2-441c-8b78-57a2a392ed0a.JPG)  AFTER  ![Neat Characters RES](https://user-images.githubusercontent.com/109909855/225361387-3e85c742-7f9a-4790-bb83-e59be2405ff3.JPG)
 
 
 
