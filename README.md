@@ -10,4 +10,7 @@ A messy dataset of EA Sports' installment of their hit FIFA series - FIFA21 scra
 # The Cleaning Process
 As stated earlier, my choice of tool for the challenge was microsoft excel.
 
-- After assessing the data to understand what needed to be done in order to take it from messy to clean, the dataset was imported into power query and loaded into Excel, This step eliminated all special characters earlier noticed in some columns of the dataset during assessment
+- After assessing the data to understand what needed to be done in order to take it from messy to clean, the dataset was imported into excel through the text import wizard using these steps:
+         "Data" tab > "From text/CSV"
+         In the "File origin" field, "65001: Unicode (UTF-8)" was selected before loading the data into the excel sheet
+         This step eliminated all special characters earlier noticed in some columns of the dataset during assessment
