@@ -30,7 +30,7 @@ As stated earlier, my choice of tool for the challenge was microsoft excel.
 - The TILDE symbol(~) in the contract column was replaced with a more appropriate symbol, Hyphen (-) using the substitute function SUBSTITUTE syntax
 
 
-     BEFORE  ![image](https://user-images.githubusercontent.com/109909855/225380270-494726be-b7b9-4234-8812-1ff486b8161b.png)        AFTER    ![image](https://user-images.githubusercontent.com/109909855/225380631-fd3a606a-4ed2-4572-84b1-2e97a218689e.png)
+     BEFORE  ![image](https://user-images.githubusercontent.com/109909855/225380270-494726be-b7b9-4234-8812-1ff486b8161b.png)        AFTER    ![image](https://user-images.githubusercontent.com/109909855/225380949-310bf3b9-a5af-4347-a010-a7e7c6585287.png)
 
   
 
