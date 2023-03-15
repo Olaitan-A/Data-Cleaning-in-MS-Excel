@@ -10,7 +10,7 @@ A messy dataset of EA Sports' installment of their hit FIFA series - FIFA21 scra
 # The Cleaning Process
 As stated earlier, my choice of tool for this challenge is microsoft excel.
 
-- After assessing the data in order to understand what needed to be done in order to take it from messy to clean, A copy of the dataset was made in order to have the original dataset in the event of data loss during cleaning.
+- After assessing the data in order to understand what needed to be done to take it from messy to clean, A copy of the dataset was made in order to have the original dataset in the event of data loss during cleaning.
 
 - The dataset was checked for duplicate values
 
