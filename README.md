@@ -79,3 +79,4 @@ As stated earlier, my choice of tool for the challenge was microsoft excel.
 
 
 # Conclusion
+Data Cleaning ensures accuracy of data and allows the data analysis process to be seamless. I love the feeling of fulfillment that comes with transforming a once messy dataset to a clean one.
