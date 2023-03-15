@@ -27,6 +27,7 @@ As stated earlier, my choice of tool for the challenge was microsoft excel.
 
     BEFORE ![ovapot- old](https://user-images.githubusercontent.com/109909855/225374175-9fc4e121-8c4f-4475-944d-ff73d82f0e06.JPG)    AFTER   ![image](https://user-images.githubusercontent.com/109909855/225374769-ee17ecff-3297-4d4d-b967-e3f34a19b6b9.png)
  
-- The TILDE symbol(~) in the contract column was replaced with a more appropriate symbol, Hyphen (-) using the substitute function =SUBSTITUTE(text, "~", "-")
+- The TILDE symbol(~) in the contract column was replaced with a more appropriate symbol, Hyphen (-) using the substitute function SUBSTITUTE syntax
+-
 
 
