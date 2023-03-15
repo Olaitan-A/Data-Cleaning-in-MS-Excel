@@ -14,8 +14,10 @@ As stated earlier, my choice of tool for the challenge was microsoft excel.
          "Data" tab > "From text/CSV"
          In the "File origin" field, "65001: Unicode (UTF-8)" was selected before loading the data into the excel sheet  
          This step eliminated all special characters earlier noticed in some columns of the dataset during assessment  
-  Before | After
---- | ---
-![] ![Dirty Characters in the data](https://user-images.githubusercontent.com/109909855/225349923-c9f2b5eb-048f-45f1-9b34-f0b5359e376a.JPG)
-| ![]![Neat Characters](https://user-images.githubusercontent.com/109909855/225350047-c4f86778-c567-40dc-8095-01d157984daf.JPG)
+  <img align="left" src="./documentation/![Dirty Characters in the data](https://user-images.githubusercontent.com/109909855/225350797-61b58245-40ac-46be-bff2-02c62d1cb06d.JPG)
+" alt="Made with Angular" title="Angular" hspace="20"/>
+<img align="left" src="./documentation/![Neat Characters](https://user-images.githubusercontent.com/109909855/225350885-9d01de58-ca67-4c7a-a66b-f9f4ecb9a081.JPG)
+" alt="Made with Bootstrap" title="Bootstrap" hspace="20"/>
+<br/><br/><br/><br/><br/>
+
 
