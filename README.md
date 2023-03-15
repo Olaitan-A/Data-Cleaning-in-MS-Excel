@@ -8,7 +8,7 @@ FIFA21 is an association football simulation video game published by Electronic 
 # About the dataset
 A messy dataset of EA Sports' installment of their hit FIFA series - FIFA21 scraped from www.sofifa.com. The dataset has 18980 rows and 77 columns containing details about each player.
 # The Cleaning Process
-As stated earlier, my choice of tool for the challenge was microsoft excel.
+As stated earlier, my choice of tool for this challenge is microsoft excel.
 
 - After assessing the data in order to understand what needed to be done in order to take it from messy to clean, A copy of the dataset was made in order to have the original dataset in the event of data loss during cleaning.
 
