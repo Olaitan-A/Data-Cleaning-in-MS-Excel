@@ -32,12 +32,15 @@ As stated earlier, my choice of tool for the challenge was microsoft excel.
 
      BEFORE  ![image](https://user-images.githubusercontent.com/109909855/225380270-494726be-b7b9-4234-8812-1ff486b8161b.png)        AFTER    ![image](https://user-images.githubusercontent.com/109909855/225381642-d0352e7a-34c8-4d88-8dc8-ce67101d77c2.png)
 
-- The 'Height' Column had majority of the values in cm while some were in ft and inches, The values in cm was converted to ft and inches using a combination of three functions; TRUNC, ROUND AND MOD  
+- The 'Height' Column had majority of the values in cm while some were in ft and inches, The values in cm were converted to ft and inches using a combination of three functions; TRUNC, ROUND AND MOD  
       The TRUNC function removes the fractional part of the result after dividing the value in cm by 2.54 and 12 (1ft = 12 inches and 1 inch =2.54cm)
       The MOD function returns the remainder after division and the ROUND function rounds the result to a specified number  
     
      Final Formula =TRUNC(cell in cm/2.54/12)&" ' "&ROUND(MOD(cell in cm/2.54,12),0)&" """  
-      '&' was used to add the unit of ft and inches.
+      '&' was used to add the units of ft and inches.
+     
+     BEFORE   ![image](https://user-images.githubusercontent.com/109909855/225386384-31b022ac-b805-44ca-9673-eb8033096e9e.png)       AFTER    ![image](https://user-images.githubusercontent.com/109909855/225387156-0bce842a-6730-4450-9293-afec3222d031.png)
+  
 
   
 
