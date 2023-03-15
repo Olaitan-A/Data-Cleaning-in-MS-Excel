@@ -14,4 +14,4 @@ As stated earlier, my choice of tool for the challenge was microsoft excel.
          "Data" tab > "From text/CSV"
          In the "File origin" field, "65001: Unicode (UTF-8)" was selected before loading the data into the excel sheet  
          This step eliminated all special characters earlier noticed in some columns of the dataset during assessment  
-         
+                       ####Before                                                                          ####After
